@@ -16,13 +16,6 @@ export default function Home() {
       </div>
     </nav>
     
-    
-    
-    
-    
-    
-      
-    
 
   );
 }
