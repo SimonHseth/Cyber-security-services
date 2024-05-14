@@ -1,3 +1,3 @@
 hvordan kjøre:
-cd cyber-security-services
+cd cyber-security-services,
 npm run dev
