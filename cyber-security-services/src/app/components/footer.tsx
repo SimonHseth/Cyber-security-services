@@ -2,7 +2,11 @@
 
 const Footer = () => {
     return (
-        <p>Footer</p>
+        <div className="w-full h-40 bg-teal-900 mt-10">
+            <p>Footer</p>
+
+        </div>
+        
 
     );
 };
